@@ -41,4 +41,4 @@ Bugs:
 
 About:
 
-If you have a question file an issue or find me on the Twitters @onlyshk.
+If you have a question file an issue or find me on the twitter @onlyshk.
