@@ -5,7 +5,7 @@ Json tools:
   * Json parser
   * Json builder
 
-Json builder:
+### Json builder:
 
 ```haskell
 test = Json [Pair ("", JEmpty),
@@ -24,21 +24,25 @@ test = Json [Pair ("", JEmpty),
 --
 ```
 
-Build:
+### Build:
 
 ```
 cabal configure && cabal build
 ```
 
-Dependencies:
+### Dependencies:
 
   * base
   * directory
 
-Bugs:
+### Bugs:
 
   https://github.com/onlyshk/json-hs/issues
 
-About:
+### Contribute:
+
+  Fork, code, pull request
+
+### About:
 
 If you have a question file an issue or find me on the twitter @onlyshk.
