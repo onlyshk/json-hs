@@ -1,0 +1,19 @@
+{
+    "ID": "Comm ets",
+    "ID2" : "Test3",
+    "Id4" : "Test5",
+    "Id5" :   50,
+    "IdTest Test" : "Testing",
+    "IdDOUBLE DOUBLE" : 20.03,
+    "Boolean" : true,
+    "Boolean2" : false,
+    "NULL" : null,
+    "Test" : 
+       {
+       	  "Test" : 1,
+          "Test2" : 5,
+          "Test3" : "hey"
+       },
+    "IDDDDDDDDDD" : "IDDDDDDDDDDDDDDDDD",
+    "Array" : [{"Array2" : 2}]
+}
